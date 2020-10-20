@@ -2,6 +2,15 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.0.
 
+## Get the code
+
+$ git clone https://github.com/CodAffection/JWT-Authentication-with-.Net-Core-Web-API-and-Angular-7.git
+$ cd JWT-Authentication-with-.Net-Core-Web-API-and-Angular-7/Angular7
+$ npm install
+//run the app
+$ ng serve
+//update Web API DB connection string
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
