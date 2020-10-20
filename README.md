@@ -4,8 +4,8 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Get the code
 
-- git clone https://github.com/CodAffection/JWT-Authentication-with-.Net-Core-Web-API-and-Angular-7.git
-- cd JWT-Authentication-with-.Net-Core-Web-API-and-Angular-7/Angular7
+- git clone https://github.com/Austin-Draper/Angular7-Login-Website.git
+- cd Angular7-Login-Website/Angular7
 - npm install
 - //run the app
 - ng serve
